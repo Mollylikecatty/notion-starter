@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Molly's Notion',
+  name: 'Molly likes cat',
   domain: 'vercel.com/mollylikeskitty',
   author: 'Molly',
 
