@@ -3,7 +3,7 @@ import { siteConfig } from './lib/site-config'
 export default siteConfig({
   // the site's root Notion page (required)
   rootNotionPageId: '19329215fb8e80ba8030eb00d6de47bd',
-
+  //https://www.notion.so/himolly-berry-cx03/19329215fb8e80ba8030eb00d6de47bd
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
